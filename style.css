@@ -167,6 +167,7 @@ margin-top: 4px;
     position: relative;
     z-index: 3;
     background-image: url(https://www.meme-arsenal.com/memes/2d6056c7a26b74a0d4897ca55c6fb83b.jpg)  ;
+    background-size:cover;
 }
 
 
